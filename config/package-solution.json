@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "ListAccordion",
+    "id": "d16a383c-7806-4058-8fe3-d2571a38b6bf",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/ListAccordion.sppkg"
+  }
+}
